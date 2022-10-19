@@ -1,1 +1,1 @@
-print "Hello, World!"
+print "Artur Sztark Maksymilian Myroslava Vasil Agata Kacper Tomasz Filip Zuzanna Martyna Jakub"
