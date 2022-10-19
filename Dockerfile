@@ -1,6 +1,7 @@
-FROM ubuntu:16.04
+# 22.04
+FROM ubuntu:jammy
 MAINTAINER Wiktor Kuśmirek "kusmirekwiktor@gmail.com"
 
 # Setup a base system
-RUN apt-get update && \
-    apt-get install -y python2.7-dev
+RUN apt update && \
+    apt install -y python3-dev
